@@ -103,6 +103,4 @@ SV001,Nguyễn Văn An,CNTT01,15/03/2004,3.75,Đang học,an.nguyen@example.com
 ---
 
 ## Tác giả
-
-**Nguyễn Văn Long** — PTIT  
 Giảng viên hướng dẫn: Nguyễn Đình Quảng
