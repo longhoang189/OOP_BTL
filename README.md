@@ -103,4 +103,5 @@ SV001,Nguyễn Văn An,CNTT01,15/03/2004,3.75,Đang học,an.nguyen@example.com
 ---
 
 ## Tác giả
+Sinh viên thực hiện: Hoàng Ngọc Long B22DCKH072
 Giảng viên hướng dẫn: Nguyễn Đình Quảng
