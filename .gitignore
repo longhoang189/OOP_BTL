@@ -17,14 +17,3 @@ logs/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Báo cáo và file không liên quan đến source code
-*.docx
-*.pdf
-*.html
-read_pdf.py
-gen_docx.py
-pdf_content.txt
-
-# Agent files
-.agents/
